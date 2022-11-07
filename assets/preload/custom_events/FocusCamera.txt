@@ -1,0 +1,5 @@
+Forces the camera on bf/opponent of the opposite side.
+
+Value 1 = dad or bf (Focuses on opponent/bf camera)
+
+Value 2 = true (Stops the camera and goes back to the original section.)

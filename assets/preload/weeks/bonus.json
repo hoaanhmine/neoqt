@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Termination",
+			"neokb",
+			[
+				66,
+				153,
+				175
+			]
+		],
+		[
+			"Cessation",
+			"nq",
+			[
+				66,
+				215,
+				153
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "neoqt",
+	"difficulties": "Neo",
+	"weekCharacters": [
+		"",
+		"neokb",
+		""
+	],
+	"storyName": "Town",
+	"weekName": "Town",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

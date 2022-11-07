@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "kb",
+			"speed": 0.05,
+			"portrait": "neokb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heh..."
+		},
+		{
+			"sound": "kb",
+			"speed": 0.05,
+			"portrait": "neokb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thought I heard some noises."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who the fuck are you!?"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "neogf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh..."
+		},
+		{
+			"sound": "kb",
+			"speed": 0.05,
+			"portrait": "neokb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't worry about who I am. Just worry about the battle."
+		}
+	]
+}

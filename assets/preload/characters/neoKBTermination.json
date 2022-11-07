@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kb idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kb left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kb down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kb up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kb right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-6
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "kb shoot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/termination/neoKBTermination",
+	"position": [
+		-260,
+		80
+	],
+	"healthicon": "neokb",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		170,
+		204
+	],
+	"camera_position": [
+		-60,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-13
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF left note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-22
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-23
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-7
+			],
+			"fps": 24,
+			"anim": "sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "gf sad"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "GF Dancing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neogf-404",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gfneo",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

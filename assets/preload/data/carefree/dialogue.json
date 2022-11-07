@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "qt",
+			"speed": 0.05,
+			"portrait": "neoqt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heyo!! :3"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Euhh... Who are you?"
+		},
+		{
+			"sound": "qt",
+			"speed": 0.05,
+			"portrait": "neoqt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My name is QT!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello QT. My name is BF?"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "neogf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pst... bf thats kinda rude you know?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't worry I'm fine GF."
+		},
+		{
+			"sound": "qt",
+			"speed": 0.05,
+			"portrait": "neoqt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I kinda just wanna sing!"
+		},
+		{
+			"sound": "qt",
+			"speed": 0.05,
+			"portrait": "neoqt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've seen your battles, they're awesome!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure!"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+Changes the bg of the "town" stage.
+
+Value 1 could be
+
+red
+normal
+error

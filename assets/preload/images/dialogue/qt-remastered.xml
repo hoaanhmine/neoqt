@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neoqt.png"><SubTexture name="neoqt idle0000" x="0" y="0" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt idle0001" x="534" y="0" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt idle0002" x="1068" y="0" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt idle0003" x="1602" y="0" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt idle0004" x="2136" y="0" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt idle0005" x="0" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt idle0006" x="534" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt idle0007" x="1068" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt right0000" x="1602" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt right0001" x="2136" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt right0002" x="0" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt right0003" x="534" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt right0004" x="1068" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt right0005" x="1602" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt left0000" x="2136" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt left0001" x="0" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt left0002" x="534" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt left0003" x="1068" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt left0004" x="1602" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt left0005" x="2136" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt up0000" x="0" y="2496" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt up0001" x="534" y="2496" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt up0002" x="1068" y="2496" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt up0003" x="1602" y="2496" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt up0004" x="2136" y="2496" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt up0005" x="0" y="3120" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt down0000" x="534" y="3120" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt down0001" x="1068" y="3120" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt down0002" x="1602" y="3120" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt down0003" x="2136" y="3120" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt down0004" x="0" y="3744" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="neoqt down0005" x="534" y="3744" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+</TextureAtlas>

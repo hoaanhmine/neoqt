@@ -1,0 +1,5 @@
+Fade hud in/out
+
+Value 1 is the alpha of it.
+
+Value 2 is the time
